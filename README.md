@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kenkeng_
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning fullstack development
+- 👀 I’m currently learning fullstack development
 - 📫 How to reach me just email me on kenbagas2@gmail.com
 
 ### Tech Stack
