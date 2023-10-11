@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kenkeng_
+- 👋 Hi, I’m Ken Bagas Nandito Pandjaitan
 - 👀 I’m currently learning fullstack development
 - 📫 How to reach me just email me on kenbagas2@gmail.com
 
